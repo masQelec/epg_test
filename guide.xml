@@ -56,33 +56,38 @@
     <url>http://www.movistarplus.es</url>
   </channel>
   <programme start="20240809084500 -0300" stop="20240809095500 -0300" channel="|ES| LA 1 UHD">
-    <title lang="es">Vivo: Natación en aguas abiertas - JJ OO París 2024: 10km</title>
-    <sub-title lang="es">10km (M)</sub-title>
-    <desc lang="es">La natación en aguas abiertas pone a prueba la resistencia de los competidores durante diez intensos kilómetros por el río Sena. El puente de Alexandre III, en el corazón histórico de París, es el epicentro de esta competición.</desc>
+    <title lang="es">Natación en aguas abiertas - JJ OO París 2024: 10km</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2048403H3421368" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2044599H3414771" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809095500 -0300" stop="20240809101000 -0300" channel="|ES| LA 1 UHD">
-    <title lang="es">Vivo: Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
-    <sub-title lang="es">Final -80kg (M)</sub-title>
-    <desc lang="es">El majestuoso Grand Palais acoge la competición de taekwondo, uno de los deportes protagonistas en los últimos días de los Juegos. El certamen entrega ocho medallas de oro, a las que aspiran los mejores 128 especialistas del planeta.</desc>
+    <title lang="es">Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Artes marciales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2053277H3416411" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809101000 -0300" stop="20240809122000 -0300" channel="|ES| LA 1 UHD">
-    <title lang="es">Vivo: Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
-    <sub-title lang="es">Final búlder de la combinada (M)</sub-title>
-    <desc lang="es">En su apuesta modernizadora, el programa olímpico vuelve a contar con este deporte moderno practicado y seguido por el público más joven. La Sede de Escalada Deportiva de Le Bourget cuenta con cinco muros para las cuatro competiciones en liza.</desc>
+    <title lang="es">Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Escalada deportiva</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2051701H3420512" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -538,33 +543,38 @@
     </star-rating>
   </programme>
   <programme start="20240809084500 -0300" stop="20240809095500 -0300" channel="|ES| LA 1 FHD">
-    <title lang="es">Vivo: Natación en aguas abiertas - JJ OO París 2024: 10km</title>
-    <sub-title lang="es">10km (M)</sub-title>
-    <desc lang="es">La natación en aguas abiertas pone a prueba la resistencia de los competidores durante diez intensos kilómetros por el río Sena. El puente de Alexandre III, en el corazón histórico de París, es el epicentro de esta competición.</desc>
+    <title lang="es">Natación en aguas abiertas - JJ OO París 2024: 10km</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2048403H3421368" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2044599H3414771" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809095500 -0300" stop="20240809101000 -0300" channel="|ES| LA 1 FHD">
-    <title lang="es">Vivo: Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
-    <sub-title lang="es">Final -80kg (M)</sub-title>
-    <desc lang="es">El majestuoso Grand Palais acoge la competición de taekwondo, uno de los deportes protagonistas en los últimos días de los Juegos. El certamen entrega ocho medallas de oro, a las que aspiran los mejores 128 especialistas del planeta.</desc>
+    <title lang="es">Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Artes marciales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2053277H3416411" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809101000 -0300" stop="20240809122000 -0300" channel="|ES| LA 1 FHD">
-    <title lang="es">Vivo: Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
-    <sub-title lang="es">Final búlder de la combinada (M)</sub-title>
-    <desc lang="es">En su apuesta modernizadora, el programa olímpico vuelve a contar con este deporte moderno practicado y seguido por el público más joven. La Sede de Escalada Deportiva de Le Bourget cuenta con cinco muros para las cuatro competiciones en liza.</desc>
+    <title lang="es">Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Escalada deportiva</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2051701H3420512" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -1020,33 +1030,38 @@
     </star-rating>
   </programme>
   <programme start="20240809084500 -0300" stop="20240809095500 -0300" channel="|ES| LA 1">
-    <title lang="es">Vivo: Natación en aguas abiertas - JJ OO París 2024: 10km</title>
-    <sub-title lang="es">10km (M)</sub-title>
-    <desc lang="es">La natación en aguas abiertas pone a prueba la resistencia de los competidores durante diez intensos kilómetros por el río Sena. El puente de Alexandre III, en el corazón histórico de París, es el epicentro de esta competición.</desc>
+    <title lang="es">Natación en aguas abiertas - JJ OO París 2024: 10km</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2048403H3421368" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2044599H3414771" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809095500 -0300" stop="20240809101000 -0300" channel="|ES| LA 1">
-    <title lang="es">Vivo: Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
-    <sub-title lang="es">Final -80kg (M)</sub-title>
-    <desc lang="es">El majestuoso Grand Palais acoge la competición de taekwondo, uno de los deportes protagonistas en los últimos días de los Juegos. El certamen entrega ocho medallas de oro, a las que aspiran los mejores 128 especialistas del planeta.</desc>
+    <title lang="es">Taekwondo - JJ OO París 2024: -67kg F - Shehata vs Castro</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Artes marciales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2053277H3416411" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
   </programme>
   <programme start="20240809101000 -0300" stop="20240809122000 -0300" channel="|ES| LA 1">
-    <title lang="es">Vivo: Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
-    <sub-title lang="es">Final búlder de la combinada (M)</sub-title>
-    <desc lang="es">En su apuesta modernizadora, el programa olímpico vuelve a contar con este deporte moderno practicado y seguido por el público más joven. La Sede de Escalada Deportiva de Le Bourget cuenta con cinco muros para las cuatro competiciones en liza.</desc>
+    <title lang="es">Escalada deportiva - JJ OO París 2024: Final búlder de la combinada</title>
+    <desc lang="es">El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.(c)</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
-    <category lang="es">Escalada deportiva</category>
-    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2051701H3420512" />
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/galeria/M2045416H3414773" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -9346,7 +9361,7 @@
   </programme>
   <programme start="20240809061000 -0300" stop="20240809070000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Reacción en cadena</title>
-    <desc lang="es">Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.(n)</desc>
+    <desc lang="es">Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9360,7 +9375,7 @@
   </programme>
   <programme start="20240809070000 -0300" stop="20240809085500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco matinal</title>
-    <desc lang="es">Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.(n)</desc>
+    <desc lang="es">Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9372,7 +9387,7 @@
   </programme>
   <programme start="20240809085500 -0300" stop="20240809103000 -0300" channel="|ES| TELECINCO">
     <title lang="es">La mirada crítica Verano</title>
-    <desc lang="es">Antonio Teixeira y Jano Mecha se encargan de ofrecer, a primera hora de la mañana, lo más destacado de la actualidad política, económica y social en el panorama nacional e internacional.(n)</desc>
+    <desc lang="es">Antonio Teixeira y Jano Mecha se encargan de ofrecer, a primera hora de la mañana, lo más destacado de la actualidad política, económica y social en el panorama nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9386,7 +9401,7 @@
   </programme>
   <programme start="20240809103000 -0300" stop="20240809150000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Vamos a ver verano</title>
-    <desc lang="es">Adriana Dorronsoro y Alfonso Egea repasan todas las noticias de actualidad, investigación y entretenimiento del verano.(n)</desc>
+    <desc lang="es">Adriana Dorronsoro y Alfonso Egea repasan todas las noticias de actualidad, investigación y entretenimiento del verano.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
@@ -9400,7 +9415,7 @@
   </programme>
   <programme start="20240809150000 -0300" stop="20240809152500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco</title>
-    <desc lang="es">Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.(n)</desc>
+    <desc lang="es">Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9412,7 +9427,7 @@
   </programme>
   <programme start="20240809152500 -0300" stop="20240809153500 -0300" channel="|ES| TELECINCO">
     <title lang="es">El Desmarque Telecinco</title>
-    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.(n)</desc>
+    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa deportes</category>
@@ -9422,7 +9437,7 @@
   </programme>
   <programme start="20240809153500 -0300" stop="20240809154500 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -9434,7 +9449,7 @@
   </programme>
   <programme start="20240809154500 -0300" stop="20240809173000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El Diario de Jorge</title>
-    <desc lang="es">Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.(n)</desc>
+    <desc lang="es">Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tertulia</category>
@@ -9448,7 +9463,7 @@
   </programme>
   <programme start="20240809173000 -0300" stop="20240809200000 -0300" channel="|ES| TELECINCO">
     <title lang="es">TardeAR Verano</title>
-    <desc lang="es">Beatriz Archidona y Frank Blanco capitanean este magacín junto con otros colaboradores. El programa combina actualidad, información y entretenimiento.(n)</desc>
+    <desc lang="es">Beatriz Archidona y Frank Blanco capitanean este magacín junto con otros colaboradores. El programa combina actualidad, información y entretenimiento.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
@@ -9462,7 +9477,7 @@
   </programme>
   <programme start="20240809200000 -0300" stop="20240809210000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Reacción en cadena</title>
-    <desc lang="es">Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.(n)</desc>
+    <desc lang="es">Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9476,7 +9491,7 @@
   </programme>
   <programme start="20240809210000 -0300" stop="20240809213500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco</title>
-    <desc lang="es">Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.(n)</desc>
+    <desc lang="es">Informativo vespertino que incluye las principales noticias que se han producido durante la jornada.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9488,7 +9503,7 @@
   </programme>
   <programme start="20240809213500 -0300" stop="20240809214500 -0300" channel="|ES| TELECINCO">
     <title lang="es">El Desmarque Telecinco Noche</title>
-    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que se analiza la actualidad y las últimas noticias de la jornada.(n)</desc>
+    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que se analiza la actualidad y las últimas noticias de la jornada.</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa deportes</category>
@@ -9498,7 +9513,7 @@
   </programme>
   <programme start="20240809214500 -0300" stop="20240809220000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -9510,7 +9525,7 @@
   </programme>
   <programme start="20240809220000 -0300" stop="20240810015500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡De Viernes!</title>
-    <desc lang="es">Sofía Suescun habla por primera vez en televisión tras su salida de ''Supervivientes All Stars'' para abordar las críticas y frentes abiertos que ha dejado su participación en el 'reality'.(n)</desc>
+    <desc lang="es">Sofía Suescun habla por primera vez en televisión tras su salida de ''Supervivientes All Stars'' para abordar las críticas y frentes abiertos que ha dejado su participación en el 'reality'.</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
@@ -9524,7 +9539,7 @@
   </programme>
   <programme start="20240810015500 -0300" stop="20240810022000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Casino Gran Madrid Online Show</title>
-    <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.(n)</desc>
+    <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MT5P3452357" />
@@ -9538,7 +9553,7 @@
   <programme start="20240810022000 -0300" stop="20240810025500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
     <sub-title lang="es">Toma Salami!: La tv que nos parió</sub-title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -9552,7 +9567,7 @@
   </programme>
   <programme start="20240810025500 -0300" stop="20240810030000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Horóscopo de Esperanza Gracia</title>
-    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.(n)</desc>
+    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.</desc>
     <date>2021</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Esoterismo</category>
@@ -9568,7 +9583,7 @@
   </programme>
   <programme start="20240810030000 -0300" stop="20240810033000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9581,7 +9596,7 @@
   </programme>
   <programme start="20240810033000 -0300" stop="20240810040000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9594,7 +9609,7 @@
   </programme>
   <programme start="20240810040000 -0300" stop="20240810070000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Miramimúsica</title>
-    <desc lang="es">Programa musical que se emite de madrugada.(n)</desc>
+    <desc lang="es">Programa musical que se emite de madrugada.</desc>
     <date>2016</date>
     <category lang="es">Música</category>
     <category lang="es">Programa de música</category>
@@ -9610,7 +9625,7 @@
   </programme>
   <programme start="20240810070000 -0300" stop="20240810071000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Enphorma</title>
-    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.(n)</desc>
+    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Salud y bienestar</category>
@@ -9627,7 +9642,7 @@
   </programme>
   <programme start="20240810071000 -0300" stop="20240810074500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -9641,7 +9656,7 @@
   </programme>
   <programme start="20240810074500 -0300" stop="20240810082000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9654,7 +9669,7 @@
   </programme>
   <programme start="20240810082000 -0300" stop="20240810085000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España. Momentazos</title>
-    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.(n)</desc>
+    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9671,7 +9686,7 @@
   </programme>
   <programme start="20240810085000 -0300" stop="20240810110000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España</title>
-    <desc lang="es">Concurso que busca nuevas promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor, entre otros. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Jesús Vázquez, Jorge Javier Vázquez, Eva Hache y Edurne.(n)</desc>
+    <desc lang="es">Concurso que busca nuevas promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor, entre otros. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Jesús Vázquez, Jorge Javier Vázquez, Eva Hache y Edurne.</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9688,7 +9703,7 @@
   </programme>
   <programme start="20240810110000 -0300" stop="20240810120500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Más Que Coches</title>
-    <desc lang="es">Informativo especializado en el sector del motor que se ocupa de todos los ámbitos relacionados con los automóviles, como el deporte, los nuevos modelos comerciales, los coches de lujo o la seguridad. El programa incluye entrevistas a personalidades del mundo del motor.(n)</desc>
+    <desc lang="es">Informativo especializado en el sector del motor que se ocupa de todos los ámbitos relacionados con los automóviles, como el deporte, los nuevos modelos comerciales, los coches de lujo o la seguridad. El programa incluye entrevistas a personalidades del mundo del motor.</desc>
     <credits>
       <director>Gonzalo Serrano</director>
     </credits>
@@ -9705,7 +9720,7 @@
   </programme>
   <programme start="20240810120500 -0300" stop="20240810132000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España. Momentazos</title>
-    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.(n)</desc>
+    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9719,7 +9734,7 @@
   </programme>
   <programme start="20240810132000 -0300" stop="20240810150000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Socialité</title>
-    <desc lang="es">Informativo en directo que repasa de forma amena las noticias de la crónica social y toda la actualidad sobre las 'celebrities' nacionales e internacionales. Además, analiza las últimas tendencias en moda, belleza y nutrición.(n)</desc>
+    <desc lang="es">Informativo en directo que repasa de forma amena las noticias de la crónica social y toda la actualidad sobre las 'celebrities' nacionales e internacionales. Además, analiza las últimas tendencias en moda, belleza y nutrición.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazon y sociedad</category>
@@ -9733,7 +9748,7 @@
   </programme>
   <programme start="20240810150000 -0300" stop="20240810153500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco Fin de Semana</title>
-    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.(n)</desc>
+    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9745,7 +9760,7 @@
   </programme>
   <programme start="20240810153500 -0300" stop="20240810154500 -0300" channel="|ES| TELECINCO">
     <title lang="es">El Desmarque Telecinco fin de semana</title>
-    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.(n)</desc>
+    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa deportes</category>
@@ -9755,7 +9770,7 @@
   </programme>
   <programme start="20240810154500 -0300" stop="20240810160000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -9767,7 +9782,7 @@
   </programme>
   <programme start="20240810160000 -0300" stop="20240810210000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Fiesta de verano</title>
-    <desc lang="es">Magacín veraniego presentado por Frank Blanco y Verónica Dulanto que se centra en el mundo del corazón y el entretenimiento. El espacio suma a nuevos colaboradores y secciones.(n)</desc>
+    <desc lang="es">Magacín veraniego presentado por Frank Blanco y Verónica Dulanto que se centra en el mundo del corazón y el entretenimiento. El espacio suma a nuevos colaboradores y secciones.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
@@ -9781,7 +9796,7 @@
   </programme>
   <programme start="20240810210000 -0300" stop="20240810213000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco Fin de Semana noche</title>
-    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen la edición vespertina de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.(n)</desc>
+    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen la edición vespertina de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -9793,7 +9808,7 @@
   </programme>
   <programme start="20240810213000 -0300" stop="20240810214000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El Desmarque Telecinco Fin de Semana Noche</title>
-    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.(n)</desc>
+    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
     <date>2024</date>
     <category lang="es">Deportes</category>
     <category lang="es">Programa deportes</category>
@@ -9803,7 +9818,7 @@
   </programme>
   <programme start="20240810214000 -0300" stop="20240810220000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -9815,7 +9830,7 @@
   </programme>
   <programme start="20240810220000 -0300" stop="20240811013000 -0300" channel="|ES| TELECINCO">
     <title lang="es">La vida sin filtros</title>
-    <desc lang="es">Cristina Tárrega y Antonio Santana se enfrentan sin conocimiento previo, sin guion ni información, a las historias más sorprendentes. En cada programa, se aborda un tema concreto conociendo historias sin filtros.(n)</desc>
+    <desc lang="es">Cristina Tárrega y Antonio Santana se enfrentan sin conocimiento previo, sin guion ni información, a las historias más sorprendentes. En cada programa, se aborda un tema concreto conociendo historias sin filtros.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Entrevista</category>
@@ -9829,7 +9844,7 @@
   </programme>
   <programme start="20240811013000 -0300" stop="20240811015500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -9846,7 +9861,7 @@
   </programme>
   <programme start="20240811015500 -0300" stop="20240811022000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Casino Gran Madrid Online Show</title>
-    <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.(n)</desc>
+    <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MT5P3453232" />
@@ -9859,7 +9874,7 @@
   </programme>
   <programme start="20240811022000 -0300" stop="20240811025500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -9873,7 +9888,7 @@
   </programme>
   <programme start="20240811025500 -0300" stop="20240811030000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Horóscopo de Esperanza Gracia</title>
-    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.(n)</desc>
+    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.</desc>
     <date>2021</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Esoterismo</category>
@@ -9889,7 +9904,7 @@
   </programme>
   <programme start="20240811030000 -0300" stop="20240811032500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9902,7 +9917,7 @@
   </programme>
   <programme start="20240811032500 -0300" stop="20240811040000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9918,7 +9933,7 @@
   </programme>
   <programme start="20240811040000 -0300" stop="20240811070000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Miramimúsica</title>
-    <desc lang="es">Programa musical que se emite de madrugada.(n)</desc>
+    <desc lang="es">Programa musical que se emite de madrugada.</desc>
     <date>2016</date>
     <category lang="es">Música</category>
     <category lang="es">Programa de música</category>
@@ -9934,7 +9949,7 @@
   </programme>
   <programme start="20240811070000 -0300" stop="20240811071500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Enphorma</title>
-    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.(n)</desc>
+    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc>
     <date>2023</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Salud y bienestar</category>
@@ -9951,7 +9966,7 @@
   </programme>
   <programme start="20240811071500 -0300" stop="20240811074500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -9967,7 +9982,7 @@
   </programme>
   <programme start="20240811074500 -0300" stop="20240811082000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -9979,7 +9994,7 @@
   </programme>
   <programme start="20240811082000 -0300" stop="20240811085500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España. Momentazos</title>
-    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.(n)</desc>
+    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -9996,7 +10011,7 @@
   </programme>
   <programme start="20240811085500 -0300" stop="20240811100000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España. Momentazos</title>
-    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.(n)</desc>
+    <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -10013,7 +10028,7 @@
   </programme>
   <programme start="20240811100000 -0300" stop="20240811132000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Got Talent España</title>
-    <desc lang="es">Concurso que busca nuevas promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor, entre otros. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Jesús Vázquez, Jorge Javier Vázquez, Eva Hache y Edurne.(n)</desc>
+    <desc lang="es">Concurso que busca nuevas promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor, entre otros. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Jesús Vázquez, Jorge Javier Vázquez, Eva Hache y Edurne.</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
@@ -10033,7 +10048,7 @@
   </programme>
   <programme start="20240811150000 -0300" stop="20240811153500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco Fin de Semana</title>
-    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.(n)</desc>
+    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -10049,7 +10064,7 @@
   </programme>
   <programme start="20240811154500 -0300" stop="20240811160000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -10061,7 +10076,7 @@
   </programme>
   <programme start="20240811160000 -0300" stop="20240811210000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Fiesta de verano</title>
-    <desc lang="es">Magacín presentado por Emma García que se centra en el mundo del corazón y el entretenimiento.(n)</desc>
+    <desc lang="es">Magacín presentado por Emma García que se centra en el mundo del corazón y el entretenimiento.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
@@ -10077,7 +10092,7 @@
   </programme>
   <programme start="20240811210000 -0300" stop="20240811213000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Informativos Telecinco Fin de Semana noche</title>
-    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen la edición vespertina de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.(n)</desc>
+    <desc lang="es">David Cantero, José Ribagorda y Leticia Iglesias conducen la edición vespertina de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.</desc>
     <date>2024</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
@@ -10093,7 +10108,7 @@
   </programme>
   <programme start="20240811214000 -0300" stop="20240811220000 -0300" channel="|ES| TELECINCO">
     <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.(n)</desc>
+    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
@@ -10105,12 +10120,12 @@
   </programme>
   <programme start="20240811220000 -0300" stop="20240812000000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Adivina qué hago</title>
-    <desc lang="es">Programa por determinar.(n)</desc>
+    <desc lang="es">Programa por determinar.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
   <programme start="20240812000000 -0300" stop="20240812015500 -0300" channel="|ES| TELECINCO">
     <title lang="es">First Dates Hotel</title>
-    <desc lang="es">'First Dates Hotel' abre sus puertas a los solteros, que compartirán inolvidables encuentros: disfrutarán del acogedor restaurante, de las comodidades que ofrece el Spa y su jacuzzi o de un DJ bajo las estrellas.(n)</desc>
+    <desc lang="es">'First Dates Hotel' abre sus puertas a los solteros, que compartirán inolvidables encuentros: disfrutarán del acogedor restaurante, de las comodidades que ofrece el Spa y su jacuzzi o de un DJ bajo las estrellas.</desc>
     <date>2024</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Telerrealidad</category>
@@ -10131,7 +10146,7 @@
   </programme>
   <programme start="20240812022000 -0300" stop="20240812025500 -0300" channel="|ES| TELECINCO">
     <title lang="es">¡Toma Salami!: La tv que nos parió</title>
-    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.(n)</desc>
+    <desc lang="es">Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
@@ -10145,7 +10160,7 @@
   </programme>
   <programme start="20240812025500 -0300" stop="20240812030000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Horóscopo de Esperanza Gracia</title>
-    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.(n)</desc>
+    <desc lang="es">La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.</desc>
     <date>2021</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Esoterismo</category>
@@ -10161,7 +10176,7 @@
   </programme>
   <programme start="20240812030000 -0300" stop="20240812033000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -10173,7 +10188,7 @@
   </programme>
   <programme start="20240812033000 -0300" stop="20240812040000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.(n)</desc>
+    <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <date>2024</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
@@ -10185,7 +10200,7 @@
   </programme>
   <programme start="20240812040000 -0300" stop="20240812055500 -0300" channel="|ES| TELECINCO">
     <title lang="es">Miramimúsica</title>
-    <desc lang="es">Programa musical que se emite de madrugada.(n)</desc>
+    <desc lang="es">Programa musical que se emite de madrugada.</desc>
     <date>2016</date>
     <category lang="es">Música</category>
     <category lang="es">Programa de música</category>
@@ -10201,7 +10216,7 @@
   </programme>
   <programme start="20240812055500 -0300" stop="20240812061000 -0300" channel="|ES| TELECINCO">
     <title lang="es">Enphorma</title>
-    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.(n)</desc>
+    <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc>
     <date>2023</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Salud y bienestar</category>
